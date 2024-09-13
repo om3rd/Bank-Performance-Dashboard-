@@ -25,10 +25,17 @@ The data belongs to a small-scale bank in Turkey in 2019.
 # Snaps of Dashboard
 
 ![Snap_1](images/Screenshot (1148).png)
+
 ![Snap_2](images/Screenshot (1155).png)
+
 ![Snap_3](images/Screenshot (1149).png)
+
 ![Snap_4](images/Screenshot (1154).png)
+
 ![Snap_5](images/Screenshot (1150).png)
+
 ![Snap_6](images/Screenshot (1151).png)
+
 ![Snap_7](images/Screenshot (1152).png)
+
 ![Snap_8](images/Screenshot (1153).png)
