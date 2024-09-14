@@ -1,7 +1,7 @@
 # Bank-Performance-Dashboard
 A Power BI dashboard for visualizing bank performance metrics, including loans data, and key performance trends.
 
-### Dashboard Link : https://app.powerbi.com/links/qieZqSFZz8?ctid=755de9ae-86f9-4909-b1a5-f092c48533f1&pbi_source=linkShare
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/09661749-3056-4d28-a20a-6fab32f9101f?ctid=755de9ae-86f9-4909-b1a5-f092c48533f1&pbi_source=linkShare&bookmarkGuid=a59a77ad-3d23-4e9d-a183-f1e90331d42c
 
 ## Problem Statement
 
